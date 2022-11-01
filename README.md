@@ -17,7 +17,7 @@ In this task, I am aiming to improve the speed and accuracy of detecting and loc
 * A Transfer Learning Based Deep Neural Network to Classify
 * ResUNET Segmentation Model to Detect Tumor Location On The Pixel Level
 
-# ---------------- Classification or Detection Part-------------------------------------------------------------------------------------------
+# ---------------- Classification or Detection Part---------------------
 
 ## Convolutional Neural Networks:- 
 * The first CNN layers are used to extract high level general features.
