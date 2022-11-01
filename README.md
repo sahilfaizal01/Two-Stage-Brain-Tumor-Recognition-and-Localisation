@@ -91,3 +91,9 @@ https://drive.google.com/file/d/1qrcLRukphFot582Uo-VAogJyallLmotD/view?usp=shari
 ### Best Model Weights:-
 https://drive.google.com/file/d/1nUYceBuQqCzSNBxlCFxqhqKO800uIA7o/view?usp=share_link 
 
+# ---------------- Segmentation or Localisation Part---------------------
+* ResUnet has been used for segmentation purpose.
+![image](https://user-images.githubusercontent.com/106440078/199277293-7c188cbb-9cf7-4022-a77a-b11dae84f05b.png)
+
+
+
