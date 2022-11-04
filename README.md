@@ -1,4 +1,4 @@
-# Two-Stage-Brain-Tumor-Recognition-and-Identification
+# Two-Stage-Brain-Tumor-Recognition-and-Localisation
 In this project, a two-stage approach is followed to detect whether Brain Tumor exists or NOT. If it exists unfortunately, localisation is also done using Segmentation technique.
 
 Dataset:- https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
